@@ -1,0 +1,19 @@
+h1{
+    font-size: 60px;
+    font-weight: 800;
+}
+p{
+    font-weight:600;
+}
+button{
+    width: 200px;
+    height: 75px;
+    background-color: blue;
+    color: azure;
+    font-size: larger;
+
+}
+
+button:hover{
+    background-color: green;
+}
